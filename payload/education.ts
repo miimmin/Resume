@@ -6,7 +6,7 @@ const education: IEducation.Payload = {
   list: [
     {
       title: '중앙대학교 컴퓨터공학과',
-      // subTitle: '컴퓨터공학과',
+      subTitle: '',
       startedAt: '2016-03',
       endedAt: '2024-02',
     },

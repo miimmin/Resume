@@ -11,7 +11,8 @@ const etc: IEtc.Payload = {
       endedAt: '2021-03',
     },
     {
-      title: '정보처리기사 자격증',
+      title: '정보처리기사',
+      subTitle: '',
       startedAt: '2023-09',
     },
   ],
