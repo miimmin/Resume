@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/component/article/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/component/article/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/common/Style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/component/common/Style.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/experience/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/component/experience/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/project/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/component/project/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/article.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/article.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/education.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/education.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/etc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/etc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/experience.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/experience.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/introduce.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/introduce.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/openSource.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/openSource.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/presentation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/presentation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/profile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/profile.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/project.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/project.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/skill.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/skill.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YDIF7dsm5vj8YMK5u2XJufhyup" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sleeplessinwhat/miimmin/resume-nextjs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/sleeplessinwhat/miimmin/resume-nextjs/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/sleeplessinwhat/miimmin/resume-nextjs/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="" />
+      <created>1700053617852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700053617852</updated>
+      <workItem from="1700053621679" duration="1962000" />
+      <workItem from="1700125673433" duration="369000" />
+      <workItem from="1700126159254" duration="598000" />
+      <workItem from="1700643916356" duration="1294000" />
+      <workItem from="1700670012727" duration="4746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

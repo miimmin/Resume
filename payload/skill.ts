@@ -1,178 +1,83 @@
 import { ISkill } from '../component/skill/ISkill';
 
-const programmingLanguages: ISkill.Skill = {
-  category: 'Programming Languages',
+// const language: ISkill.Skill = {
+//   category: 'Language',
+//   items: [
+//     {
+//       title: 'Java 11',
+//       level: 3,
+//     },
+//   ],
+// };
+const backend: ISkill.Skill = {
+  category: 'Back-end',
   items: [
     {
-      title: 'C',
+      title: 'Java 11',
       level: 3,
     },
     {
-      title: 'Shell Scripting',
+      title: 'Spring Framework',
       level: 3,
     },
     {
-      title: 'Python',
-      level: 3,
-    },
-    {
-      title: 'Perl',
+      title: 'SpringBoot 3.0',
       level: 2,
     },
     {
-      title: 'Golang',
+      title: 'Spring JPA',
       level: 2,
     },
     {
-      title: 'Rust',
-      level: 1,
-    },
-  ],
-};
-
-const kernelDevelopment: ISkill.Skill = {
-  category: 'Kernel Development',
-  items: [
-    {
-      title: 'Kernel Programming',
-      level: 3,
-    },
-    {
-      title: 'GNU Debugger',
-      level: 3,
-    },
-    {
-      title: 'Memory Management',
-      level: 2,
-    },
-    {
-      title: 'System Call Interface',
+      title: 'QueryDSL 5.0',
       level: 2,
     },
   ],
 };
 
-const virtualization: ISkill.Skill = {
-  category: 'Virtualization',
+const database: ISkill.Skill = {
+  category: 'Database',
   items: [
     {
-      title: 'Docker',
-      level: 3,
-    },
-    {
-      title: 'KVM',
-      level: 3,
-    },
-    {
-      title: 'Xen',
+      title: 'MySQL 8.0',
       level: 2,
     },
     {
-      title: 'VirtualBox',
+      title: 'Oracle',
       level: 2,
     },
     {
-      title: 'VMware ESXi',
-      level: 1,
+      title: 'Redis',
+      level: 2,
     },
   ],
 };
 
-const automation: ISkill.Skill = {
-  category: 'Automation',
+const etc: ISkill.Skill = {
+  category: 'Etc',
   items: [
     {
-      title: 'Ansible',
-      level: 3,
+      title: 'Apache JMeter',
     },
     {
-      title: 'Puppet',
-      level: 3,
+      title: 'Micrometer',
     },
     {
-      title: 'Chef',
-      level: 2,
+      title: 'Prometheus',
     },
     {
-      title: 'Jenkins',
-      level: 2,
+      title: 'Grafana',
     },
     {
-      title: 'CI/CD Pipelines',
-      level: 1,
-    },
-    {
-      title: 'Infrastructure as Code',
-      level: 1,
-    },
-  ],
-};
-
-const networkSecurity: ISkill.Skill = {
-  category: 'Network Security',
-  items: [
-    {
-      title: 'iptables',
-      level: 3,
-    },
-    {
-      title: 'OpenSSH',
-      level: 3,
-    },
-    {
-      title: 'OpenSSL',
-      level: 2,
-    },
-    {
-      title: 'NACLs',
-      level: 2,
-    },
-    {
-      title: 'VPN Technologies',
-      level: 2,
-    },
-    {
-      title: 'Intrusion Detection',
-      level: 1,
-    },
-  ],
-};
-
-const misc: ISkill.Skill = {
-  category: 'Misc',
-  items: [
-    {
-      title: 'Coffee Brewing',
-    },
-    {
-      title: "Rubik's Cube Solving",
-    },
-    {
-      title: 'Table Tennis',
-    },
-    {
-      title: 'Guitar Playing',
-    },
-    {
-      title: 'Joke Telling',
-    },
-    {
-      title: 'Duct Tape Crafting',
+      title: 'Jira',
     },
   ],
 };
 
 const skill: ISkill.Payload = {
-  disable: false,
-  skills: [
-    programmingLanguages,
-    kernelDevelopment,
-    virtualization,
-    automation,
-    networkSecurity,
-    misc,
-  ],
-  tooltip: '1: 기초 수준\n2: 취미 개발 수준\n3: Production 개발 가능 수준',
+  disable: true,
+  skills: [backend, database, etc],
+  tooltip: '1: 기초 수준\n2: 개발 가능 수준\n3: Production 실무 수준',
 };
 
 export default skill;

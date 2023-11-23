@@ -5,15 +5,14 @@ const etc: IEtc.Payload = {
 
   list: [
     {
-      title: 'Featured on SuperTuxKart',
-      subTitle: "Steve & Oliver Baker's",
-      startedAt: '2016-07',
+      title: 'C-LINK',
+      subTitle: '중앙대학교 블록체인 학회',
+      startedAt: '2018-03',
+      endedAt: '2021-03',
     },
     {
-      title: "Biting Linus Torvalds' Foot",
-      subTitle: 'Australia National Zoo & Aquarium',
-      startedAt: '1993-07',
-      endedAt: '1993-08',
+      title: '정보처리기사 자격증',
+      startedAt: '2023-09',
     },
   ],
 };

@@ -29,8 +29,8 @@ function Yosume() {
         <Profile.Component payload={Payload.profile} />
         <Introduce.Component payload={Payload.introduce} />
         <Skill.Component payload={Payload.skill} />
-        <Experience.Component payload={Payload.experience} />
         <Project.Component payload={Payload.project} />
+        <Experience.Component payload={Payload.experience} />
         <OpenSource.Component payload={Payload.openSource} />
         <Presentation.Component payload={Payload.presentation} />
         <Article.Component payload={Payload.article} />
