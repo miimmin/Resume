@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/index-2257011a5fd2389db4fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/u0PFqDF5MaXq-Mmfn9XQV/_buildManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/u0PFqDF5MaXq-Mmfn9XQV/_ssgManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payload/introduce.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/introduce.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payload/profile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/profile.ts" afterDir="false" />
-    </list>
+    <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +52,7 @@
       <workItem from="1700643916356" duration="1294000" />
       <workItem from="1700670012727" duration="6413000" />
       <workItem from="1700707426318" duration="1464000" />
-      <workItem from="1702341644977" duration="12892000" />
+      <workItem from="1702341644977" duration="12908000" />
     </task>
     <servers />
   </component>
