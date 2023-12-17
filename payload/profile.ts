@@ -15,7 +15,7 @@ const profile: IProfile.Payload = {
   },
   contact: [
     {
-      title: 's.miimmin@gmail.com',
+      title: 'sangmin2dev@gmail.com',
       link: '#',
       icon: faEnvelope,
     },
@@ -25,17 +25,17 @@ const profile: IProfile.Payload = {
       badge: true,
     },
     {
-      title: 'https://github.com/miimmin',
-      link: 'https://github.com/miimmin',
+      title: 'https://github.com/sangmin2dev',
+      link: 'https://github.com/sangmin2dev',
       icon: faGithub,
     },
     {
-      link: 'https://miimmin.gitbook.io/dev/\n',
+      link: 'https://sangmin2dev.gitbook.io/dev/\n',
       icon: faBloggerB,
     },
   ],
   notice: {
-    title: '🧑‍💻 안녕하세요, 서버 개발자 이상민 입니다.',
+    title: '✨ 안녕하세요, 우수한 서비스를 만들고자 하는 백엔드 개발자, 이상민입니다.',
   },
 };
 

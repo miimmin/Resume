@@ -3,69 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/pic.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/asset/pic.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/7KALBErcRLFgbOyEwfEWp/_buildManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/7KALBErcRLFgbOyEwfEWp/_ssgManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/a9a7754c.1af83f2ea06ef07aa28b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.fd25c8f40b3bcfd06113.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/main-3a68b5c4e85c938640aa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/_app-e99a65a3e43c4b81ca7e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/_error-00594f3f889f73196ff8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/index-40ffa76b5fd2e484d678.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/images/sample_tux-89d0e7f59e8467f6a88bf85b2cb2a9dd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/index-2257011a5fd2389db4fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/u0PFqDF5MaXq-Mmfn9XQV/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/u0PFqDF5MaXq-Mmfn9XQV/_ssgManifest.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/images/icons@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/images/widgets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/images/widgets@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/assets/js/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/globals.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iarticle.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/icommon.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ieducation.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ieducation.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ietc.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ietc.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iexperience.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iexperience.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ifooter.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iglobal.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iintroduce.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iopensource.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iopensource.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ipresentation.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/ipresentation.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iprofile.contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iprofile.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iproject.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iproject.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/irow.description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/irow.left.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/irow.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/irow.right.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iskill.item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iskill.payload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/interfaces/iskill.skill.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iarticle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/icommon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/ieducation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/ietc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iexperience.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/ifooter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iglobal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iintroduce.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iopensource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/ipresentation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iprofile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iproject.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/irow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/typedoc/modules/iskill.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/payload/education.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/education.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payload/etc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/etc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payload/introduce.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/introduce.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payload/profile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/profile.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,21 +27,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sleeplessinwhat/miimmin/resume-nextjs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/sleeplessinwhat/miimmin/resume-nextjs/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/sleeplessinwhat/miimmin/resume-nextjs/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sleeplessinwhat/sangmin2dev/resume",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/sleeplessinwhat/miimmin/resume-nextjs/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/sleeplessinwhat/sangmin2dev/resume/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/asset" />
@@ -117,6 +60,8 @@
       <workItem from="1700126159254" duration="598000" />
       <workItem from="1700643916356" duration="1294000" />
       <workItem from="1700670012727" duration="6413000" />
+      <workItem from="1700707426318" duration="1464000" />
+      <workItem from="1702341644977" duration="12892000" />
     </task>
     <servers />
   </component>
