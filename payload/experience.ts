@@ -10,8 +10,8 @@ const experience: IExperience.Payload = {
       startedAt: '2019-12',
       endedAt: '2022-02',
       descriptions: [
-        '삼개월 홈쉐어링 서비스 백엔드 전담 개발',
-        // '삼개월 홈쉐어링 플랫폼 공동 기획',
+        '홈쉐어링 서비스, 삼개월 서버사이드 기획 및 개발',
+        '홈쉐어링 서비스, 삼개월 서비스 기획 참여',
         // '삼개월 홈쉐어링 플랫폼 기술스택 및 개발환경 설정',
         // '홈쉐어링 계약프로세스, 호스트/학생/방에 대한 CRUD 등 모든 요구사항에 대한 데이터 모델링 및 API 설계',
       ],
@@ -22,8 +22,8 @@ const experience: IExperience.Payload = {
       startedAt: '2022-09',
       endedAt: '2022-12',
       descriptions: [
-        'DGA Classification 소프트웨어 내부에 사용될 Classification 모듈 개발',
-        'AI 모델 자동생성기 AutoApe 을 위한 Knowledge 데이터로 kaggle 상위 10% 랭크 이상의 모델 2개 생성',
+        'DGA Classification 소프트웨어 내부 Classification 모듈 개발',
+        'AI 모델 자동생성기 AutoApe 을 위한 Knowledge 데이터 M/L 모델 생성',
         // 'DGA 악성도메인 Classification에 사용될 도메인패턴, entropy 등 16개의 Feature 생성',
         // 'DGA 악성도메인 Classification RandomForest, XGBoost 모델 생성 및 Classification',
         // 'AI 모델 자동생성기 AutoApe 을 위한 Knowledge 데이터로 kaggle 상위 10% 랭크 이상의 모델 생성',
