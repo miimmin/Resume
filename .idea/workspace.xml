@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/experience/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/component/experience/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/project/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/component/project/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/0f1ac474.faa7d793a4cd8646805a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/0f7007e8.0a0b70788b6411282e55.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/a9a7754c.e25c68d95057c96d24d6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/cb1608f2.b1f4eeaa188223a3ef13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/f4e18d47.c7c6d047d13b7cd81084.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.27cc75f789fe4f1125ba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/framework.f8bd46fc02868c500bda.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/main-b0308efd6bd17837a5cc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/_app-07d04713c0dfafd6ed88.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/_error-5294d01f9119cb8bbb0b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/index-4d3432d7f49dcd99f47f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/polyfills-ff94e68042added27a93.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/css/b081b4ab4bd19d13505c.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/images/favicon-f8d15634f8502a47fbe53edeb125d982.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/images/pic-0b06766a5dfca2d6c8ff73f77dc9a95d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/images/preview-122f733406c042b94393787192cb5609.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/j2yxx4SsRL9e2CEjswoYr/_buildManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_next/static/j2yxx4SsRL9e2CEjswoYr/_ssgManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/payload/experience.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/experience.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payload/introduce.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/introduce.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
