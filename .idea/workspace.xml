@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/payload/experience.ts" beforeDir="false" afterPath="$PROJECT_DIR$/payload/experience.ts" afterDir="false" />
-    </list>
+    <list default="true" id="1adc4556-c53a-4acc-940f-e027455227e1" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
